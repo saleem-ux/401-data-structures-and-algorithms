@@ -5,7 +5,7 @@
 ---
 ## Whiteboard Process
 
-![](../images/code03.jpg)
+![](images/code03.jpg)
 
 ---
 
