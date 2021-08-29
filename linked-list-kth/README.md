@@ -67,7 +67,7 @@
 
 
 ## The Code :
-### [Code](https://github.com/Duniaalkilany/data-structures-and-algorithms/tree/main/401-challenges/linked-list-kth/linked-list-kth.js)
+### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/linked-list-kth)
 
 ![img](./images/code07.jpg)
 
