@@ -21,7 +21,7 @@
 ---
 
 ### code challenge05
-- [README.md](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/linked-list/README.md)
+- [README.md](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/linked-list/readme.md)
 
 ---
 
