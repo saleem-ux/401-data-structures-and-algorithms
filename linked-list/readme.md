@@ -26,6 +26,7 @@
 
 
 
+![img](./images/code05.jpg)
 
 
 
@@ -44,7 +45,7 @@
 
 * ### include(): this method compare input value if it's exist in linked list.
 
-* ### toString(): return a string visiulizing the linked list shape.
+* ### toString(): return a string visualizing the linked list shape.
 
 ## How to Use
 * ### To create an empty linked list : const = new LinkedList();
@@ -53,7 +54,7 @@
 * ### output all of the values of the linked list : .toString()
 
 ## The Code :
-### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/code-challenge05)
+### [Linked List](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/linked-list)
 
 ## Test
 ### npm run test 
