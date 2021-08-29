@@ -25,4 +25,9 @@
 
 ---
 
+### code challenge06
+- [README.md](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/linked-list-insertions/README.md)
+
+---
+
 
