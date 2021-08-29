@@ -30,4 +30,11 @@
 
 ---
 
+### code challenge07
+- [README.md](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/linked-list-kth/README.md)
+
+---
+
+linked-list-kth
+
 
