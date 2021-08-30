@@ -22,7 +22,7 @@
 
 
 ## The Code :
-### [Code](https://github.com/Duniaalkilany/data-structures-and-algorithms/tree/main/401-challenges/linked-list-zip)
+### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/linked-list-zip)
 
 ## Test
 ### npm run test 
