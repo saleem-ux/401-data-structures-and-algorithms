@@ -35,6 +35,11 @@
 
 ---
 
-linked-list-kth
+### code challenge08
+- [README.md](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/linked-list-zip/README.md)
+
+---
+
+
 
 
