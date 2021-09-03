@@ -52,9 +52,9 @@
 
 ## code
 
-* ### [queue](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/401-challenges/stack-and-queue/queue.js)
+* ### [stack](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/stack-and-queue/stack.js)
 
-* ### [stack](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/401-challenges/stack-and-queue/stack.js)
+* ### [queue](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/stack-and-queue/queue.js)
 
 * ### ![image](./images/code10.jpg)
 
