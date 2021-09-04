@@ -42,4 +42,4 @@
 
 ## Solution - Code
 
-* ### [Code](https://github.com/Duniaalkilany/data-structures-and-algorithms/tree/main/401-challenges/stack-queue-animal-shelter/)
+* ### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/stack-queue-animal-shelter)
