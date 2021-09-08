@@ -45,6 +45,8 @@
 
 ## Code
 
-* ### [Code](https://github.com/Duniaalkilany/data-structures-and-algorithms/tree/main/401-challenges/trees/binaryTree.js)
+* ### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/trees/binaryTree.js)
 
-* ### [Code](https://github.com/Duniaalkilany/data-structures-and-algorithms/tree/main/401-challenges/trees/binaryTreeSearch.js)
+* ### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/trees/binarySearchTree.js)
+
+
