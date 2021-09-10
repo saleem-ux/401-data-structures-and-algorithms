@@ -26,4 +26,4 @@
 
 ## Code
 
-* ### [Code](https://github.com/Duniaalkilany/data-structures-and-algorithms/tree/main/401-challenges/tree-max/binaryTreeFindMax.js)
+* ### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/tree-max)
