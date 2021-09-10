@@ -6,7 +6,7 @@
 
 ## Whiteboard Process
 
-![img](/images/code16.jpg)
+![img](./images/code16.jpg)
 
 ## Approach & Efficiency
 
