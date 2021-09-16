@@ -6,7 +6,7 @@
 
 ## Whiteboard Process
 
-![img](../images/code17.jpg)
+![img](./images/code17.jpg)
 
 ## Approach & Efficiency
 
@@ -30,4 +30,4 @@
 
 ## Code
 
-* ### [Code](https://github.com/Duniaalkilany/data-structures-and-algorithms/tree/main/401-challenges/tree-breadth-first/tree-breadth-first.js)
+* ### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/tree/main/tree-breadth-first)
