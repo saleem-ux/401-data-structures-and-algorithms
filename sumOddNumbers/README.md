@@ -30,4 +30,4 @@
 
 ## Code
 
-* ### [Code](https://github.com/Duniaalkilany/data-structures-and-algorithms/tree/main/401-challenges/sumOddNumbers/binarySearchTree.js)
+* ### [Code](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/sumOddNumbers/binarySearchTree.js)
