@@ -1,6 +1,6 @@
 # Code Challenge: Class 26 / Insertion Sort - JS Implementation
 
-## By Dunia Alkilany
+## By Saleem Diab
 
 
 ## Introduction
