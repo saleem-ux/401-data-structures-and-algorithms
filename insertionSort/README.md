@@ -24,7 +24,7 @@
 ## The code :
 
 
-[code](../insertionSort.js)
+[code](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/insertionSort/insertionSort.js)
 
 
 ## Tests :
