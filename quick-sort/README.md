@@ -15,7 +15,7 @@
 
 
 
-![img](./visual28.png)
+![img](./images/visual28.png)
 
 
 ## Efficiency
@@ -35,4 +35,4 @@
 
 
 
-![img](![image](./images/test28.png))
+![img](./images/test28.png)
