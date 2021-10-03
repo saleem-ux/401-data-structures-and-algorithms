@@ -101,8 +101,12 @@
 ---
 
 ### code challenge29
-- [README.md](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/merge-sort/README.md
-)
+- [README.md](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/merge-sort/README.md)
+
+---
+
+### code challenge30
+- [README.md](https://github.com/saleem-ux/401-data-structures-and-algorithms/blob/main/hashtable/README.md)
 
 ---
 
